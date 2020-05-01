@@ -16,6 +16,7 @@
     <extension name='yacceleratorcore' />
     <extension name='yacceleratorstorefront' />
     <extension name='electronicsstore' />
+    <extension name='apparelstore' />
     <extension name='acceleratorwebservicesaddon' />
     <extension name='orderselfserviceaddon' />
     <extension name='customersupportbackoffice' />
